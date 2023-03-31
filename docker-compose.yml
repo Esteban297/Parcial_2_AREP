@@ -7,4 +7,4 @@ services:
       dockerfile: Dockerfile
     container_name: web
     ports:
-      - "4567:6000"
+      - "45678:6000"
